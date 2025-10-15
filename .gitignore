@@ -139,3 +139,13 @@ ecosystem.config.js
 cache/key.json
 
 appstate.json
+
+database/users.json
+database/threads.json
+database/message.json
+database/coinprice.json
+database/quests.json
+database/wallets.json
+database/json/claims.json
+database/json/usernames.json
+database/json/antiname.json
